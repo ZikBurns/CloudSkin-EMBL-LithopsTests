@@ -1,0 +1,79 @@
+#!/bin/sh
+# wasmedge shell setup
+# affix colons on either side of $PATH to simplify matching
+case :"$PATH": in
+    *:"/tmp/.wasmedge/bin":*)
+        ;;
+    *)
+        # Prepending path in case a system-installed wasmedge needs to be overridden
+        if [ -n "$PATH" ]; then
+            export PATH="/tmp/.wasmedge/bin":$PATH
+        else
+            export PATH="/tmp/.wasmedge/bin"
+        fi
+        ;;
+esac
+case :"$LD_LIBRARY_PATH": in
+    *:"/tmp/.wasmedge/lib":*)
+        ;;
+    *)
+        # Prepending path in case a system-installed wasmedge libs needs to be overridden
+        if [ -n "$LD_LIBRARY_PATH" ]; then
+            export LD_LIBRARY_PATH="/tmp/.wasmedge/lib":$LD_LIBRARY_PATH
+        else
+            export LD_LIBRARY_PATH="/tmp/.wasmedge/lib"
+        fi
+        ;;
+esac
+case :"$LIBRARY_PATH": in
+    *:"/tmp/.wasmedge/lib":*)
+        ;;
+    *)
+        if [ -n "$LIBRARY_PATH" ]; then
+            export LIBRARY_PATH="/tmp/.wasmedge/lib":$LIBRARY_PATH
+        else
+            export LIBRARY_PATH="/tmp/.wasmedge/lib"
+        fi
+        ;;
+esac
+case :"$C_INCLUDE_PATH": in
+    *:"/tmp/.wasmedge/include":*)
+        ;;
+    *)
+        if [ -n "$C_INCLUDE_PATH" ]; then
+            export C_INCLUDE_PATH="/tmp/.wasmedge/include":$C_INCLUDE_PATH
+        else
+            export C_INCLUDE_PATH="/tmp/.wasmedge/include"
+        fi
+        ;;
+esac
+case :"$CPLUS_INCLUDE_PATH": in
+    *:"/tmp/.wasmedge/include":*)
+        ;;
+    *)
+        if [ -n "$CPLUS_INCLUDE_PATH" ]; then
+            export CPLUS_INCLUDE_PATH="/tmp/.wasmedge/include":$CPLUS_INCLUDE_PATH
+        else
+            export CPLUS_INCLUDE_PATH="/tmp/.wasmedge/include"
+        fi
+        ;;
+esac
+if [ -z ${WASMEDGE_LIB_DIR+x} ]; then
+    export WASMEDGE_LIB_DIR="/tmp/.wasmedge/lib"
+fi
+# Please do not edit comments below this for uninstallation purpose
+#/tmp/.wasmedge/lib
+#/tmp/.wasmedge/lib/libwasmedge.so
+#/tmp/.wasmedge/lib/libwasmedge.so.0
+#/tmp/.wasmedge/lib/libwasmedge.so.0.0.2
+#/tmp/.wasmedge/bin
+#/tmp/.wasmedge/bin/wasmedgec
+#/tmp/.wasmedge/bin/wasmedge
+#/tmp/.wasmedge/include
+#/tmp/.wasmedge/include/wasmedge/enum_types.h
+#/tmp/.wasmedge/include/wasmedge/wasmedge.h
+#/tmp/.wasmedge/include/wasmedge/enum_errcode.h
+#/tmp/.wasmedge/include/wasmedge/version.h
+#/tmp/.wasmedge/include/wasmedge/enum.inc
+#/tmp/.wasmedge/include/wasmedge/int128.h
+#/tmp/.wasmedge/include/wasmedge/enum_configure.h
