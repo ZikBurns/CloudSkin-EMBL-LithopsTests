@@ -1,0 +1,38 @@
+[
+      {
+            "state": "cold",
+            "functions": 1,
+            "durations": [
+                  15.80597472190857
+            ],
+            "mean": 15.80597472190857,
+            "std": 0.0
+      },
+      {
+            "state": "cold",
+            "functions": 50,
+            "durations": [
+                  15.85730528831482
+            ],
+            "mean": 15.85730528831482,
+            "std": 0.0
+      },
+      {
+            "state": "warm",
+            "functions": 1,
+            "durations": [
+                  0.4434235095977783
+            ],
+            "mean": 0.4434235095977783,
+            "std": 0.0
+      },
+      {
+            "state": "warm",
+            "functions": 50,
+            "durations": [
+                  0.831540584564209
+            ],
+            "mean": 0.831540584564209,
+            "std": 0.0
+      }
+]

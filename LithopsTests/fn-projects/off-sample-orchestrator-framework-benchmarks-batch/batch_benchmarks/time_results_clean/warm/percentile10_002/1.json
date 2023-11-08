@@ -1,0 +1,15 @@
+{
+      "invocation_time": 1.0249130725860596,
+      "time_download": 0.15912103652954102,
+      "time_inference": 0.46340394020080566,
+      "predictions": [
+            {
+                  "prob": 0.9834873080253601,
+                  "label": "off"
+            },
+            {
+                  "prob": 0.9883860349655151,
+                  "label": "off"
+            }
+      ]
+}

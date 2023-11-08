@@ -1,0 +1,744 @@
+[
+      {
+            "statusCode": 200,
+            "body": [
+                  {
+                        "predictions": [
+                              {
+                                    "prob": 0.696439802646637,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.8140199780464172,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.6778156161308289,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.824653685092926,
+                                    "label": "off"
+                              }
+                        ],
+                        "time_download": 0.2545328140258789,
+                        "time_inference": 18.92812442779541,
+                        "time_model_init": 8.96553349494934
+                  },
+                  {
+                        "predictions": [
+                              {
+                                    "prob": 0.0003495197161100805,
+                                    "label": "on"
+                              },
+                              {
+                                    "prob": 0.31592288613319397,
+                                    "label": "on"
+                              },
+                              {
+                                    "prob": 0.996298611164093,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.8382521271705627,
+                                    "label": "off"
+                              }
+                        ],
+                        "time_download": 0.17890143394470215,
+                        "time_inference": 18.263596296310425,
+                        "time_model_init": 8.96553349494934
+                  },
+                  {
+                        "predictions": [
+                              {
+                                    "prob": 0.11777371168136597,
+                                    "label": "on"
+                              },
+                              {
+                                    "prob": 0.9917395114898682,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.8594728708267212,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.006621782202273607,
+                                    "label": "on"
+                              }
+                        ],
+                        "time_download": 0.13405394554138184,
+                        "time_inference": 13.38579249382019,
+                        "time_model_init": 8.96553349494934
+                  },
+                  {
+                        "predictions": [
+                              {
+                                    "prob": 0.5869491696357727,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.6642882227897644,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.025323471054434776,
+                                    "label": "on"
+                              },
+                              {
+                                    "prob": 0.009878923185169697,
+                                    "label": "on"
+                              }
+                        ],
+                        "time_download": 0.19370508193969727,
+                        "time_inference": 19.155242919921875,
+                        "time_model_init": 8.96553349494934
+                  },
+                  {
+                        "predictions": [
+                              {
+                                    "prob": 0.7095824480056763,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.7976869344711304,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.7458149790763855,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.5929235816001892,
+                                    "label": "off"
+                              }
+                        ],
+                        "time_download": 0.15587306022644043,
+                        "time_inference": 18.30913496017456,
+                        "time_model_init": 8.96553349494934
+                  },
+                  {
+                        "predictions": [
+                              {
+                                    "prob": 0.5930230021476746,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.785994291305542,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.0007325323531404138,
+                                    "label": "on"
+                              },
+                              {
+                                    "prob": 0.8332977294921875,
+                                    "label": "off"
+                              }
+                        ],
+                        "time_download": 0.22392964363098145,
+                        "time_inference": 19.306209802627563,
+                        "time_model_init": 8.96553349494934
+                  },
+                  {
+                        "predictions": [
+                              {
+                                    "prob": 0.002197620924562216,
+                                    "label": "on"
+                              },
+                              {
+                                    "prob": 0.7215849757194519,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.7146120667457581,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.7673158645629883,
+                                    "label": "off"
+                              }
+                        ],
+                        "time_download": 0.24061918258666992,
+                        "time_inference": 14.592419385910034,
+                        "time_model_init": 8.96553349494934
+                  },
+                  {
+                        "predictions": [
+                              {
+                                    "prob": 0.698741614818573,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.9932478666305542,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.7027145028114319,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.2605982720851898,
+                                    "label": "on"
+                              }
+                        ],
+                        "time_download": 0.23424553871154785,
+                        "time_inference": 16.45512557029724,
+                        "time_model_init": 8.96553349494934
+                  },
+                  {
+                        "predictions": [
+                              {
+                                    "prob": 0.9360547065734863,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.8524168729782104,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.8145963549613953,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.9021252393722534,
+                                    "label": "off"
+                              }
+                        ],
+                        "time_download": 0.16286849975585938,
+                        "time_inference": 16.023312091827393,
+                        "time_model_init": 8.96553349494934
+                  },
+                  {
+                        "predictions": [
+                              {
+                                    "prob": 0.6928344368934631,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.7522885203361511,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.8583918809890747,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.7749936580657959,
+                                    "label": "off"
+                              }
+                        ],
+                        "time_download": 0.29908037185668945,
+                        "time_inference": 15.971247911453247,
+                        "time_model_init": 8.96553349494934
+                  },
+                  {
+                        "predictions": [
+                              {
+                                    "prob": 0.343214213848114,
+                                    "label": "on"
+                              },
+                              {
+                                    "prob": 0.8007489442825317,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.754429280757904,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.6756354570388794,
+                                    "label": "off"
+                              }
+                        ],
+                        "time_download": 0.19497013092041016,
+                        "time_inference": 15.524203777313232,
+                        "time_model_init": 8.96553349494934
+                  },
+                  {
+                        "predictions": [
+                              {
+                                    "prob": 0.7429872751235962,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.7361335158348083,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.7371922731399536,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.6088410019874573,
+                                    "label": "off"
+                              }
+                        ],
+                        "time_download": 0.2914767265319824,
+                        "time_inference": 19.251596212387085,
+                        "time_model_init": 8.96553349494934
+                  },
+                  {
+                        "predictions": [
+                              {
+                                    "prob": 0.859066367149353,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.9686388373374939,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.8213038444519043,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.8043628334999084,
+                                    "label": "off"
+                              }
+                        ],
+                        "time_download": 0.2012629508972168,
+                        "time_inference": 15.187928676605225,
+                        "time_model_init": 8.96553349494934
+                  },
+                  {
+                        "predictions": [
+                              {
+                                    "prob": 0.006825160700827837,
+                                    "label": "on"
+                              },
+                              {
+                                    "prob": 0.05269018933176994,
+                                    "label": "on"
+                              },
+                              {
+                                    "prob": 0.8003387451171875,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.7698124051094055,
+                                    "label": "off"
+                              }
+                        ],
+                        "time_download": 0.21177911758422852,
+                        "time_inference": 15.926723003387451,
+                        "time_model_init": 8.96553349494934
+                  },
+                  {
+                        "predictions": [
+                              {
+                                    "prob": 0.0020365880336612463,
+                                    "label": "on"
+                              },
+                              {
+                                    "prob": 0.00321489037014544,
+                                    "label": "on"
+                              },
+                              {
+                                    "prob": 0.13008159399032593,
+                                    "label": "on"
+                              },
+                              {
+                                    "prob": 0.3181820213794708,
+                                    "label": "on"
+                              }
+                        ],
+                        "time_download": 0.326995849609375,
+                        "time_inference": 15.566512107849121,
+                        "time_model_init": 8.96553349494934
+                  },
+                  {
+                        "predictions": [
+                              {
+                                    "prob": 0.9520698189735413,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.9205415844917297,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.002262372989207506,
+                                    "label": "on"
+                              },
+                              {
+                                    "prob": 0.8573811054229736,
+                                    "label": "off"
+                              }
+                        ],
+                        "time_download": 0.2182025909423828,
+                        "time_inference": 17.773443698883057,
+                        "time_model_init": 8.96553349494934
+                  },
+                  {
+                        "predictions": [
+                              {
+                                    "prob": 0.8526048064231873,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.11399577558040619,
+                                    "label": "on"
+                              },
+                              {
+                                    "prob": 0.3763180077075958,
+                                    "label": "on"
+                              },
+                              {
+                                    "prob": 0.8151090145111084,
+                                    "label": "off"
+                              }
+                        ],
+                        "time_download": 0.2660362720489502,
+                        "time_inference": 13.541864395141602,
+                        "time_model_init": 8.96553349494934
+                  },
+                  {
+                        "predictions": [
+                              {
+                                    "prob": 0.6756354570388794,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.0024974311236292124,
+                                    "label": "on"
+                              },
+                              {
+                                    "prob": 0.003685915609821677,
+                                    "label": "on"
+                              },
+                              {
+                                    "prob": 0.6782152056694031,
+                                    "label": "off"
+                              }
+                        ],
+                        "time_download": 0.20400238037109375,
+                        "time_inference": 13.16474199295044,
+                        "time_model_init": 8.96553349494934
+                  },
+                  {
+                        "predictions": [
+                              {
+                                    "prob": 0.7267207503318787,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.8635332584381104,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.001698496751487255,
+                                    "label": "on"
+                              },
+                              {
+                                    "prob": 0.0023113228380680084,
+                                    "label": "on"
+                              }
+                        ],
+                        "time_download": 0.30221056938171387,
+                        "time_inference": 14.550926923751831,
+                        "time_model_init": 8.96553349494934
+                  },
+                  {
+                        "predictions": [
+                              {
+                                    "prob": 0.7053693532943726,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.005085612181574106,
+                                    "label": "on"
+                              },
+                              {
+                                    "prob": 0.6276656985282898,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.9046744108200073,
+                                    "label": "off"
+                              }
+                        ],
+                        "time_download": 0.22715353965759277,
+                        "time_inference": 16.246870040893555,
+                        "time_model_init": 8.96553349494934
+                  },
+                  {
+                        "predictions": [
+                              {
+                                    "prob": 0.003423920599743724,
+                                    "label": "on"
+                              },
+                              {
+                                    "prob": 0.0017276074504479766,
+                                    "label": "on"
+                              },
+                              {
+                                    "prob": 0.5597977638244629,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.6886755228042603,
+                                    "label": "off"
+                              }
+                        ],
+                        "time_download": 0.2387375831604004,
+                        "time_inference": 14.257314443588257,
+                        "time_model_init": 8.96553349494934
+                  },
+                  {
+                        "predictions": [
+                              {
+                                    "prob": 0.0002536412503104657,
+                                    "label": "on"
+                              },
+                              {
+                                    "prob": 0.840147078037262,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.7574257850646973,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.8751687407493591,
+                                    "label": "off"
+                              }
+                        ],
+                        "time_download": 0.1680605411529541,
+                        "time_inference": 16.69597363471985,
+                        "time_model_init": 8.96553349494934
+                  },
+                  {
+                        "predictions": [
+                              {
+                                    "prob": 0.9999120235443115,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.9985393285751343,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.9997323155403137,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.9952681660652161,
+                                    "label": "off"
+                              }
+                        ],
+                        "time_download": 0.25751352310180664,
+                        "time_inference": 18.811380863189697,
+                        "time_model_init": 8.96553349494934
+                  },
+                  {
+                        "predictions": [
+                              {
+                                    "prob": 0.8890422582626343,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.7581968903541565,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.8450548648834229,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.0016987473936751485,
+                                    "label": "on"
+                              }
+                        ],
+                        "time_download": 0.4301266670227051,
+                        "time_inference": 16.082732677459717,
+                        "time_model_init": 8.96553349494934
+                  },
+                  {
+                        "predictions": [
+                              {
+                                    "prob": 0.0042467559687793255,
+                                    "label": "on"
+                              },
+                              {
+                                    "prob": 0.6756354570388794,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.8953024744987488,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.5484934449195862,
+                                    "label": "off"
+                              }
+                        ],
+                        "time_download": 0.17867159843444824,
+                        "time_inference": 18.55081605911255,
+                        "time_model_init": 8.96553349494934
+                  },
+                  {
+                        "predictions": [
+                              {
+                                    "prob": 0.01686931774020195,
+                                    "label": "on"
+                              },
+                              {
+                                    "prob": 0.0001386359945172444,
+                                    "label": "on"
+                              },
+                              {
+                                    "prob": 0.0015465409960597754,
+                                    "label": "on"
+                              },
+                              {
+                                    "prob": 0.002990264678373933,
+                                    "label": "on"
+                              }
+                        ],
+                        "time_download": 0.18919682502746582,
+                        "time_inference": 18.16418981552124,
+                        "time_model_init": 8.96553349494934
+                  },
+                  {
+                        "predictions": [
+                              {
+                                    "prob": 0.07117185741662979,
+                                    "label": "on"
+                              },
+                              {
+                                    "prob": 0.6748095750808716,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.41100993752479553,
+                                    "label": "on"
+                              },
+                              {
+                                    "prob": 0.19765035808086395,
+                                    "label": "on"
+                              }
+                        ],
+                        "time_download": 0.1654367446899414,
+                        "time_inference": 18.307743072509766,
+                        "time_model_init": 8.96553349494934
+                  },
+                  {
+                        "predictions": [
+                              {
+                                    "prob": 0.32219141721725464,
+                                    "label": "on"
+                              },
+                              {
+                                    "prob": 0.0019690534099936485,
+                                    "label": "on"
+                              },
+                              {
+                                    "prob": 0.00458074314519763,
+                                    "label": "on"
+                              },
+                              {
+                                    "prob": 0.3687964379787445,
+                                    "label": "on"
+                              }
+                        ],
+                        "time_download": 0.4097263813018799,
+                        "time_inference": 13.611382484436035,
+                        "time_model_init": 8.96553349494934
+                  },
+                  {
+                        "predictions": [
+                              {
+                                    "prob": 0.6748095750808716,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.5450859665870667,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.019088683649897575,
+                                    "label": "on"
+                              },
+                              {
+                                    "prob": 5.410397716332227e-05,
+                                    "label": "on"
+                              }
+                        ],
+                        "time_download": 0.29970645904541016,
+                        "time_inference": 18.962377786636353,
+                        "time_model_init": 8.96553349494934
+                  },
+                  {
+                        "predictions": [
+                              {
+                                    "prob": 0.00023600459098815918,
+                                    "label": "on"
+                              },
+                              {
+                                    "prob": 0.05704120174050331,
+                                    "label": "on"
+                              },
+                              {
+                                    "prob": 0.9590865969657898,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.9711167812347412,
+                                    "label": "off"
+                              }
+                        ],
+                        "time_download": 0.4966397285461426,
+                        "time_inference": 14.450366258621216,
+                        "time_model_init": 8.96553349494934
+                  },
+                  {
+                        "predictions": [
+                              {
+                                    "prob": 0.03187687695026398,
+                                    "label": "on"
+                              },
+                              {
+                                    "prob": 0.27691513299942017,
+                                    "label": "on"
+                              },
+                              {
+                                    "prob": 0.9040525555610657,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.9706365466117859,
+                                    "label": "off"
+                              }
+                        ],
+                        "time_download": 0.5447702407836914,
+                        "time_inference": 18.621301889419556,
+                        "time_model_init": 8.96553349494934
+                  },
+                  {
+                        "predictions": [
+                              {
+                                    "prob": 0.00011232135875616223,
+                                    "label": "on"
+                              },
+                              {
+                                    "prob": 0.007536351215094328,
+                                    "label": "on"
+                              },
+                              {
+                                    "prob": 0.00019656801305245608,
+                                    "label": "on"
+                              },
+                              {
+                                    "prob": 0.0037010374944657087,
+                                    "label": "on"
+                              }
+                        ],
+                        "time_download": 0.6195428371429443,
+                        "time_inference": 18.34696650505066,
+                        "time_model_init": 8.96553349494934
+                  }
+            ],
+            "total_time": 19.627758026123047
+      }
+]

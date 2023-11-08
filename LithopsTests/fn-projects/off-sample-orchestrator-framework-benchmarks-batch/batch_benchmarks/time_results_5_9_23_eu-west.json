@@ -1,0 +1,57 @@
+[
+      {
+            "dataset": "batch",
+            "batch_size": 8,
+            "durations": [],
+            "time_download_mean": NaN,
+            "time_download_std": NaN,
+            "time_inference_mean": NaN,
+            "time_inference_std": NaN,
+            "total_time": NaN,
+            "total_std": NaN
+      },
+      {
+            "dataset": "batch",
+            "batch_size": 16,
+            "durations": [],
+            "time_download_mean": NaN,
+            "time_download_std": NaN,
+            "time_inference_mean": NaN,
+            "time_inference_std": NaN,
+            "total_time": NaN,
+            "total_std": NaN
+      },
+      {
+            "dataset": "batch",
+            "batch_size": 32,
+            "durations": [],
+            "time_download_mean": NaN,
+            "time_download_std": NaN,
+            "time_inference_mean": NaN,
+            "time_inference_std": NaN,
+            "total_time": NaN,
+            "total_std": NaN
+      },
+      {
+            "dataset": "batch",
+            "batch_size": 64,
+            "durations": [],
+            "time_download_mean": NaN,
+            "time_download_std": NaN,
+            "time_inference_mean": NaN,
+            "time_inference_std": NaN,
+            "total_time": NaN,
+            "total_std": NaN
+      },
+      {
+            "dataset": "batch",
+            "batch_size": 128,
+            "durations": [],
+            "time_download_mean": NaN,
+            "time_download_std": NaN,
+            "time_inference_mean": NaN,
+            "time_inference_std": NaN,
+            "total_time": NaN,
+            "total_std": NaN
+      }
+]

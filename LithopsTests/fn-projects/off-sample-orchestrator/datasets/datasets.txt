@@ -1,0 +1,37 @@
+Dataset ID: 2016-09-22_11h16m11s
+Image size: 148x107
+Annotations:  300. Images:  793. Database: SwissLipids 
+Annotations:  236. Images:  641. Database: HMDB 
+
+
+Dataset ID: 2016-09-21_16h06m53s
+Image size: 212x152
+Annotations: 2862. Images: 11295. Database: HMDB
+Annotations:  314. Images:  1240. Database: PAMDB
+Annotations: 1108. Images:  4379. Database: CoreMetabolome
+Annotations: 1754. Images:  6893. Database: LIPID_MAPS
+Annotations: 3049. Images: 12024. Database: HMDB
+Annotations: 3539. Images: 13940. Database: ChEBI
+
+
+Dataset ID: 2016-09-21_16h06m49s
+Image size: 268x189
+Annotations: 3584. Images: 14291. Database: HMDB
+Annotations:  598. Images:  2386. Database: PAMDB
+Annotations: 1096. Images:  4354. Database: CoreMetabolome
+Annotations: 3872. Images: 15439. Database: HMDB
+Annotations: 4098. Images: 16335. Database: ChEBI
+
+
+Dataset ID: 2019-07-31_17h35m11s
+Image size: 434x902
+Annotations:  768. Images: 2929. Database: LipidMaps
+Annotations: 1486. Images: 5697. Database: HMDB
+Annotations:  186. Images:  717. Database: SwissLipids
+
+
+Dataset ID: 2019-08-19_11h28m42s
+Image size: 842x603
+Annotations: 1184. Images: 4729. Database: LipidMaps
+Annotations: 1169. Images: 4672. Database: HMDB
+Annotations: 1968. Images: 7861. Database: SwissLipids

@@ -1,0 +1,26 @@
+[
+      {
+            "dataset": "percentile_90",
+            "durations": [],
+            "batch_size": "032",
+            "stream_size": "001",
+            "total_time": NaN,
+            "total_std": NaN
+      },
+      {
+            "dataset": "percentile_90",
+            "durations": [],
+            "batch_size": "032",
+            "stream_size": "002",
+            "total_time": NaN,
+            "total_std": NaN
+      },
+      {
+            "dataset": "percentile_90",
+            "durations": [],
+            "batch_size": "032",
+            "stream_size": "004",
+            "total_time": NaN,
+            "total_std": NaN
+      }
+]

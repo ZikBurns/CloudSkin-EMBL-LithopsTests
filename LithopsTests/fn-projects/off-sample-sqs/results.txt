@@ -1,0 +1,16 @@
+{
+    "MD5OfMessageBody": "23e03ccd1bd7f172e49872c4c81ef59a",
+    "MessageId": "ec85a61e-697b-425b-a04d-17c400325ed5",
+    "SequenceNumber": "18879056934433264640",
+    "ResponseMetadata": {
+        "RequestId": "c2940dba-9e6e-5509-b18f-509b436e4ccc",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "x-amzn-requestid": "c2940dba-9e6e-5509-b18f-509b436e4ccc",
+            "date": "Fri, 07 Jul 2023 09:28:32 GMT",
+            "content-type": "text/xml",
+            "content-length": "431"
+        },
+        "RetryAttempts": 0
+    }
+}

@@ -1,0 +1,24 @@
+[
+      {
+            "errorMessage": "[Errno 28] No space left on device",
+            "errorType": "OSError",
+            "stackTrace": [
+                  "  File \"/var/lang/lib/python3.7/imp.py\", line 234, in load_module\n    return load_source(name, filename, file)\n",
+                  "  File \"/var/lang/lib/python3.7/imp.py\", line 171, in load_source\n    module = _load(spec)\n",
+                  "  File \"<frozen importlib._bootstrap>\", line 696, in _load\n",
+                  "  File \"<frozen importlib._bootstrap>\", line 677, in _load_unlocked\n",
+                  "  File \"<frozen importlib._bootstrap_external>\", line 728, in exec_module\n",
+                  "  File \"<frozen importlib._bootstrap>\", line 219, in _call_with_frames_removed\n",
+                  "  File \"/var/task/entry_point.py\", line 47, in <module>\n    import_torch()\n",
+                  "  File \"/var/task/entry_point.py\", line 32, in import_torch\n    s3_client.download_file('off-sample', 'torch.zip', '/tmp/python/torch.zip')\n",
+                  "  File \"/var/runtime/boto3/s3/inject.py\", line 195, in download_file\n    callback=Callback,\n",
+                  "  File \"/var/runtime/boto3/s3/transfer.py\", line 326, in download_file\n    future.result()\n",
+                  "  File \"/var/runtime/s3transfer/futures.py\", line 103, in result\n    return self._coordinator.result()\n",
+                  "  File \"/var/runtime/s3transfer/futures.py\", line 266, in result\n    raise self._exception\n",
+                  "  File \"/var/runtime/s3transfer/tasks.py\", line 139, in __call__\n    return self._execute_main(kwargs)\n",
+                  "  File \"/var/runtime/s3transfer/tasks.py\", line 162, in _execute_main\n    return_value = self._main(**kwargs)\n",
+                  "  File \"/var/runtime/s3transfer/download.py\", line 643, in _main\n    fileobj.write(data)\n",
+                  "  File \"/var/runtime/s3transfer/utils.py\", line 375, in write\n    self._fileobj.write(data)\n"
+            ]
+      }
+]

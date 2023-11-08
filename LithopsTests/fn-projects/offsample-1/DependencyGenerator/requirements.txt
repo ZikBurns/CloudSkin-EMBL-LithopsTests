@@ -1,0 +1,2 @@
+lithops
+urllib3==1.26.15

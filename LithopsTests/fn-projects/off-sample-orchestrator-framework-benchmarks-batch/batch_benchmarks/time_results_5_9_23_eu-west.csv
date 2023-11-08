@@ -1,0 +1,6 @@
+dataset,batch_size,durations,time_download_mean,time_download_std,time_inference_mean,time_inference_std,total_time,total_std
+batch,8,[],nan,nan,nan,nan,nan,nan
+batch,16,[],nan,nan,nan,nan,nan,nan
+batch,32,[],nan,nan,nan,nan,nan,nan
+batch,64,[],nan,nan,nan,nan,nan,nan
+batch,128,[],nan,nan,nan,nan,nan,nan

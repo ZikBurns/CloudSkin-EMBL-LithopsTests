@@ -1,0 +1,6 @@
+[
+      {
+            "errorType": "Runtime.ExitError",
+            "errorMessage": "RequestId: f3582308-b228-4f1b-86b4-4d015660af94 Error: Runtime exited with error: signal: segmentation fault"
+      }
+]

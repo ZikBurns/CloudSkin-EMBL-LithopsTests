@@ -1,0 +1,121 @@
+[
+    {
+        "statusCode": 200,
+        "body": [
+            "Map time: 230.80113673210144 seconds",
+            "FunctionExecutor time: 1.2408952713012695 secs",
+            [
+                {
+                    "statusCode": 200,
+                    "body": {
+                        "predictions": [
+                            {
+                                "prob": 0.020986083894968033,
+                                "label": "on"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "statusCode": 200,
+                    "body": {
+                        "predictions": [
+                            {
+                                "prob": 0.01842830330133438,
+                                "label": "on"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "statusCode": 200,
+                    "body": {
+                        "predictions": [
+                            {
+                                "prob": 0.01874280907213688,
+                                "label": "on"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "statusCode": 200,
+                    "body": {
+                        "predictions": [
+                            {
+                                "prob": 0.16972535848617554,
+                                "label": "on"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "statusCode": 200,
+                    "body": {
+                        "predictions": [
+                            {
+                                "prob": 0.003160142572596669,
+                                "label": "on"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "statusCode": 200,
+                    "body": {
+                        "predictions": [
+                            {
+                                "prob": 0.0026551976334303617,
+                                "label": "on"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "statusCode": 200,
+                    "body": {
+                        "predictions": [
+                            {
+                                "prob": 0.0020325970835983753,
+                                "label": "on"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "statusCode": 200,
+                    "body": {
+                        "predictions": [
+                            {
+                                "prob": 0.9458823800086975,
+                                "label": "off"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "statusCode": 200,
+                    "body": {
+                        "predictions": [
+                            {
+                                "prob": 0.37386244535446167,
+                                "label": "on"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "statusCode": 200,
+                    "body": {
+                        "predictions": [
+                            {
+                                "prob": 0.3845623731613159,
+                                "label": "on"
+                            }
+                        ]
+                    }
+                }
+            ]
+        ]
+    }
+]

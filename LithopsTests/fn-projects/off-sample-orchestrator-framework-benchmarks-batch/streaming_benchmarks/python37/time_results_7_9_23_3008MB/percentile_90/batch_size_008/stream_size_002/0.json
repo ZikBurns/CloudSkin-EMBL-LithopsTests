@@ -1,0 +1,68 @@
+[
+      {
+            "statusCode": 200,
+            "body": [
+                  {
+                        "predictions": [
+                              {
+                                    "prob": 0.696439802646637,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.8140199780464172,
+                                    "label": "off"
+                              }
+                        ],
+                        "time_download": 0.08905291557312012,
+                        "time_inference": 1.2458980083465576,
+                        "time_model_init": 8.929633140563965
+                  },
+                  {
+                        "predictions": [
+                              {
+                                    "prob": 0.6778156161308289,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.824653685092926,
+                                    "label": "off"
+                              }
+                        ],
+                        "time_download": 0.10907196998596191,
+                        "time_inference": 1.3566904067993164,
+                        "time_model_init": 8.929633140563965
+                  },
+                  {
+                        "predictions": [
+                              {
+                                    "prob": 0.0003495197161100805,
+                                    "label": "on"
+                              },
+                              {
+                                    "prob": 0.31592288613319397,
+                                    "label": "on"
+                              }
+                        ],
+                        "time_download": 0.1397557258605957,
+                        "time_inference": 1.286029577255249,
+                        "time_model_init": 8.929633140563965
+                  },
+                  {
+                        "predictions": [
+                              {
+                                    "prob": 0.996298611164093,
+                                    "label": "off"
+                              },
+                              {
+                                    "prob": 0.8382521271705627,
+                                    "label": "off"
+                              }
+                        ],
+                        "time_download": 0.1372833251953125,
+                        "time_inference": 1.323425531387329,
+                        "time_model_init": 8.929633140563965
+                  }
+            ],
+            "total_time": 1.4708092212677002
+      }
+]

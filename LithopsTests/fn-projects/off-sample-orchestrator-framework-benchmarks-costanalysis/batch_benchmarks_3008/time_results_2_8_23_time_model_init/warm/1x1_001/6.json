@@ -1,0 +1,20 @@
+{
+      "invocation_times": {
+            "start": [
+                  1691061422.2695928
+            ],
+            "end": [
+                  1691061422.9539473
+            ]
+      },
+      "invocation_time": 0.6843545436859131,
+      "time_model_init": 0.33931851387023926,
+      "time_download": 0.08614206314086914,
+      "time_inference": 0.20313096046447754,
+      "predictions": [
+            {
+                  "prob": 0.6756355166435242,
+                  "label": "off"
+            }
+      ]
+}

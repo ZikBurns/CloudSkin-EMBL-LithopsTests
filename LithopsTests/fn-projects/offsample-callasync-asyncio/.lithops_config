@@ -1,0 +1,19 @@
+lithops:
+    backend: aws_lambda_custom
+    storage: aws_s3
+    log_level: DEBUG
+
+
+aws:
+    access_key_id: ASIA4ZTYB6XMKVJC45MA
+    secret_access_key: VOByMkRlaOMV9noB2q+y6nmpZDA4jNXl7zBaas5G
+    session_token: IQoJb3JpZ2luX2VjEAAaCXVzLWVhc3QtMSJIMEYCIQDpETXg+3tzO4d3pX+9lzT/6uVOS5WzddJddc/xrYLUmAIhALfwvvubP6mkIG5Nrf8xWiDxLLlAvIc+O6iJ8PRDjByHKv0CCIn//////////wEQABoMODc5NjQ2MzQwNTY4IgzAPJJnvLfAf9Sh0qEq0QLJ0OunvzA/bdTIdqCjwKEEOMOHSNLjpWxJzMn5QJvi2THmANUHbhMyG7O3aECSlDGeFO75DSGlFDQEIxXK7iTWY98NVZfIFlDQwlpffd+rsoXf61nseN0LbQoUZ4b1RccK1w0bJwAZ/dIG8LLAFx0HzClFT1XFdPHgz6pl+cxMheDBBq9h02SaaRABj3CC1D1JfVyQkWG/xU8XKfvuSwsyR4WaiMKtjOs0uVDqGbYudNNXExMmJPCeo0XcrRvcsqYJMdm6r/RKZ3wP4t4pDk9aL/kVOR/+mfjVzkjNlUHrUiXG9RXoBk7+A56LES9+I//HYcUxID3J3ba8UseqKriKzfHEr9Ob8zxouDdS9hvfFDCy+yVYnzzMLJArFmwfFxw55/4fkYfpq8DuhrbNuJkNMn9VAy9Q1x0vZIO5yMvBOWmKkM/FLCIWKPWIqH6lHMZlMNar3qUGOqYB9EIGZo9xkn51yd9KoRT3I1On3CMwppE5xl8jBCqJkqow7D5/0p6ZCVMdAL+yMUOvkkzzl1SpN3l7uwaR8QPBIpANRqfgGV3TokSBxy8K8B+nvSNAuXKsXzBvg/IctMMBrqWLxVY5bgPeYI8I2i9DHSQqmXYAiT/c58u/cle3SmJVM8g/8mlBppfhCbO+ddABjrPMXfhatizVi7pv6DVv3oUYpOFVJg==
+
+
+aws_lambda_custom:
+    execution_role: arn:aws:iam::879646340568:role/LithopsRole
+    region_name: us-east-1
+
+aws_s3:
+    storage_bucket: off-sample
+    region_name : us-east-1

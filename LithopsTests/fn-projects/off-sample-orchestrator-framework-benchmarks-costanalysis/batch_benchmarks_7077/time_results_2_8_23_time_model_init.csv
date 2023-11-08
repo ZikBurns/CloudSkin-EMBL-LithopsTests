@@ -1,0 +1,2 @@
+dataset,batch_size,time_model_init_mean,time_model_init_std,time_download_mean,time_download_std,time_inference_mean,time_inference_std,total_time,total_std
+1x1,1,8.942020241419474,0.03331940529395202,0.05892484982808431,0.003925658582068469,0.3093904495239258,0.020712588711967787,0.3683152993520101,0.021622569669532334
