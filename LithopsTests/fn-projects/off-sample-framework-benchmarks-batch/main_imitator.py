@@ -35,25 +35,9 @@ if __name__ == '__main__':
                                 'inter': inter,
                                 'intra':intra,
                             }}})
-                    results, invocation_times = fexec.map_cnn_threading_benchmark(payload_list, force_cold=False)
-                    time_inferences = []
-                    for res in results:
-                        body = res['body']
-                        time_inference = body['time_inference']
-                        time_inferences.append(body['time_inference'])
-                        # print(body['show_info'])
-                        print(body['parallel_info'])
-                        inter_lambda=body['inter']
-                        intra_lambda=body['intra']
-                    average_time_inference = Average(time_inferences)
-                    print(results)
-                    print(f"Inference Serial mode, Shard Size {shard_size}, Inter {inter_lambda}, Intra {intra_lambda}, Tests {num_functions}, time: {average_time_inference}, times: {time_inferences}\n", )
-                    # with open("benchmarks/10240/torchscript_paralelism.txt", "a") as file:
-                    #     file.write(f"Inference Serial mode, Shard Size {shard_size}, Inter {inter_lambda}, Intra {intra_lambda}, Tests {num_functions}, time: {average_time_inference}, times: {time_inferences}\n", )
-
-            fexec.close()
-
-
+                    fexec.map_cnn_threading_benchmark_imitator(payload_list, force_cold=False)
+                    print(fexec.get_result())
+                    fexec.plot(dst="./")
 
 
 

@@ -1,0 +1,17 @@
+lithops:
+    backend: aws_lambda
+    storage: aws_s3
+
+aws:
+    access_key_id: AKIA3WNJKNSTFGGEVKYP
+    secret_access_key: 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
+    #session_token: <AWS_SESSION_TOKEN>  # Optional
+    #account_id: <AWS_ACCOUNT_ID>  # Optional
+
+aws_lambda:
+    execution_role: arn:aws:iam::804050857126:role/lithops-execution-role
+    region_name: eu-north-1
+
+aws_s3:
+    storage_bucket: off-sample-s3
+    region_name : eu-north-1
